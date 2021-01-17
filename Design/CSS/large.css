@@ -1,0 +1,93 @@
+/* nav bars */
+.topnav {
+  background-color: #e8eae6;
+  overflow: hidden;
+  margin: -8px -8px auto;
+}
+
+.topnav a {
+  float: right;
+  display: block;
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #7c9473;
+  color: #cfdac8;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+header {
+  text-align: center;
+}
+
+/* @media only screen 992px+ */
+.grid-container {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+
+.content {
+  display: inline-block;
+  background: #7c9473;
+  margin: 20px;
+  border-radius: 1%;
+  text-align: center;
+}
+
+body {
+  background: #cdd0cb;
+  font-family: 'Asap', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+h4 {
+  font-size: 20px;
+  font-style: oblique;
+}
+
+a {
+  color: #cfdac8;
+}
+
+a:hover {
+  color: #e8eae6;
+}
+
+img {
+  border: 2px solid;
+}
+
+.lawPara {
+  margin: auto 20px 10px;
+}
+
+/* footer */
+footer {
+  margin: 0 -8px -8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: #e8eae6;
+}
+
+.BYUi {
+  color: grey;
+}
+
+.BYUi:hover {
+  color: #7c9473;
+}

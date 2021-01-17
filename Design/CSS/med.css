@@ -1,0 +1,16 @@
+@media only screen and (max-width: 1075px) {
+
+.grid-container {
+		grid-template-columns: 50% 50%;
+	}
+
+    h1 {
+        font-size: 40px;
+    }
+
+    h2 {
+        font-size: 35px;
+    }
+
+
+}
