@@ -1,0 +1,75 @@
+/* nav bars */
+.topnav {
+  background-color: #0d335d;
+  overflow: hidden;
+  margin: -12px -8px auto;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #c1a1d3;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #c1a1d3;
+  color: #1a508b;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+header {
+  text-align: center;
+}
+
+#pklogo {
+  width: 100px;
+  margin: -20px auto -40px;
+}
+/* @media only screen 992px+ */
+Main {
+  background-color: #0d335d;
+  color: #c1a1d3;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+body {
+  font-family: 'Lato', sans-serif;
+  background: #fff3e6;
+}
+h1, h2, h3 {
+  font-family: 'Lobster', cursive;
+}
+p {
+  font-size: 23px;
+}
+.outsideDiv {
+  background-color: #0d335d;
+  padding: 15px;
+  margin: auto -8px;
+}
+
+/* footer */
+footer {
+  margin: 0 -8px -8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: #0d335d;
+  color: #c1a1d3;
+}
+
+.BYUi {
+  color: grey;
+}
+
+.BYUi:hover {
+  color: #fff3e6;
+}
+/*navbar two*/
